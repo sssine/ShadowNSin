@@ -33,6 +33,11 @@ Unreal Forums.
 Unreal Docs.
 
 
+Build : 
+https://drive.google.com/file/d/1E8HWCMWMGun1hT9q_vb22syJWdk6mGd6/view?usp=sharing 
+VR preview when playing to test in VR from editor
+
+
 
 
 
